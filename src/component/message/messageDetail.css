@@ -1,0 +1,47 @@
+.white-bg {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 3.2% 20px 3.2%;
+    background-color: white;
+    border-radius: 0.1rem;
+}
+
+
+.tpinfo {
+    width: 100%;
+    font-size: 8px;
+    color: #333;
+    text-align: justify;
+}
+.tpinfo h1.new {
+    margin-bottom:12px;
+}
+.info {
+    font-size: 0.18rem;
+    color: #999;
+    overflow: hidden;
+    margin-bottom: 17px;
+}
+p {
+    font-family: 'Microsoft Yahei';
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
+}
+
+#date {
+    background: url(./files/TIME-1.png) no-repeat left center;
+    background-size: auto 8px;
+}
+#writer {
+    background: url(./files/USER.png) no-repeat left center;
+    background-size: auto 8px;
+}
+.info span {
+    display: block;
+    padding-left: 13px;
+    float: left;
+    margin-right:20px;
+}

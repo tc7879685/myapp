@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    background: white;
+}
+table td {
+    padding: 4px 6px;
+    vertical-align: top;
+    word-wrap:break-word;
+    word-break:break-all;
+}
+.ellipsis{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.p-b-40{
+    padding-bottom: 40px;
+}
+.p-t-36{
+    padding-top: 36px;
+}
+.padding0{
+}
+.corlor888{
+    color: #888;
+}
+
+
